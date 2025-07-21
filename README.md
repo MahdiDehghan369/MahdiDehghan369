@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehti</h1>
-<h3 align="center">Junior Full-Stack Developer</h3>
+<h3 align="center">Junior Back-End Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%7C+Express+%7C+MongoDB;Learning+TypeScript+%7C+MySQL;Building+Cool+Projects" alt="Typing SVG" />
