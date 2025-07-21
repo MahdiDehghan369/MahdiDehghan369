@@ -41,24 +41,8 @@
 
 ---
 
-### 🚀 What I'm working on
-
-- 🔧 A music streaming app API (Spotify-style)  
-- 🛍️ Full-featured e-commerce backend  
-- 🏫 School management system (attendance, roles, grading)  
-- ✍️ Blog platform with SQL-based schema
-
----
-
 ### 📫 Contact Me
 
-- 📧 Email: your-email@example.com *(update with real email)*  
-- 🌐 Portfolio: Coming soon...
+- 📧 Email: silayprogramming@gmail.com 
+- 📬 Telegram: [@silay369](https://t.me/silay369)
 
----
-
-### ✨ Fun Fact
-
-> I love organizing backend systems like puzzles — everything should fit clean, fast, and scalable.
-
----
