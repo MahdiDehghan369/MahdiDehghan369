@@ -49,10 +49,6 @@ aboutMe.connect({
 
 ```
 
-- 🔭 Right now, I'm building portfolio projects to level up my coding skills and strengthen my dev journey 
-- 🌱 I'm learning **TypeScript**, **MySQL**, and advanced Node.js architecture  
-- 🧰 Love working with backend technologies and building scalable APIs  
-- 🎯 Goal: Become a professional backend developer
 
 ---
 
