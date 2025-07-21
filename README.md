@@ -18,7 +18,7 @@ const About Me = {
     Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
    },
  };
-
+```
 
 - 🔭 Right now, I'm building portfolio projects to level up my coding skills and strengthen my dev journey 
 - 🌱 I'm learning **TypeScript**, **MySQL**, and advanced Node.js architecture  
