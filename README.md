@@ -46,8 +46,7 @@
 - 📧 Email: silayprogramming@gmail.com 
 - 📬 Telegram: [@silay369](https://t.me/silay369)
 
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hi+I'm+Mehti!;Node.js+Backend+Developer;TypeScript+%7C+MongoDB+%7C+Express;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding GIF">
 </p>
 
