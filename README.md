@@ -8,7 +8,15 @@
 ---
 
 ### 🧠 About Me
-
+const About Me = {
+  status: 302,
+  data: {
+    FullName: "Mohsen Bakhshi",
+    MyChannel: "https://t.me/NodeUnique",
+    BirthDay: [2005٫ "January 7", "Friday"٫ "Ardabil"],
+    Hobbies: ["Music", "Podcast", "Learning", "Coding", "Caffee"]
+   },
+ };
 - 🔭 Right now, I'm building portfolio projects to level up my coding skills and strengthen my dev journey 
 - 🌱 I'm learning **TypeScript**, **MySQL**, and advanced Node.js architecture  
 - 🧰 Love working with backend technologies and building scalable APIs  
