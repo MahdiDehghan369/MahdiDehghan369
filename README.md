@@ -46,7 +46,5 @@
 - 📧 Email: silayprogramming@gmail.com 
 - 📬 Telegram: [@silay369](https://t.me/silay369)
 
-<p align="center">
-  <img src="https://github.com/Mehti/Mehti/blob/output/github-contribution-grid-snake.svg" width="250" alt="Coding GIF">
-</p>
+![snake gif](https://github.com/Mehti/Mehti/blob/output/github-contribution-grid-snake.svg)
 
