@@ -46,14 +46,4 @@
 - 📧 Email: silayprogramming@gmail.com 
 - 📬 Telegram: [@silay369](https://t.me/silay369)
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/98765432?v=4" width="150" style="border-radius: 50%" />
-</p>
-
-<h3 align="center">سلام! من مهدی‌ام — عاشق ساختن سیستم‌های بک‌اند با Node.js 💻</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Node.js+Developer;Express+%7C+TypeScript+%7C+MongoDB;Let's+build+awesome+stuff!" alt="Typing SVG" />
-</p>
-
 
