@@ -44,7 +44,7 @@ aboutMe.getGoals();
 aboutMe.connect({
   github: "https://github.com/MahdiDehghan369",
   telegram: "https://t.me/silay369",
-  email: "silayprogramming@gmail.com",
+  email: "mahdi.dehghan369@gmail.com",
 });
 
 ```
@@ -80,7 +80,7 @@ aboutMe.connect({
 
 ### 📫 Contact Me
 
-- 📧 Email: silayprogramming@gmail.com 
+- 📧 Email: mahdi.dehghan369@gmail.com 
 - 📬 Telegram: [@silay369](https://t.me/silay369)
 
 
